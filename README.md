@@ -85,7 +85,7 @@ Uitgangpunt is om tot een workshop eco-systeem te komen op basis waarvan de beoo
 ***********
 
 ## Workshop overzicht december 2022
-De DUUR van de workshops moet nog worden toegevoegd.
+De DUUR van de workshops moet nog worden toegevoegd. Miro materiaal ook deelbaar maken? 
 
 <br> <br>
 
