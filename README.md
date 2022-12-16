@@ -62,7 +62,7 @@ Expert | innovator | Has an authoritative or deep holistic understanding, deals 
  
 ## Workshop AI-toepassing Domeinen/Modaliteiten
 
- Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language processing/Language: NLP, Computer Vision/vision: CV and Reinforcement Learning RL /Motor-behaviour. Het fundament onder deze toepassingdgebieden wordt gevormd door de vakgebiden Data Science & Machine Learning.
+ Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language processing/Language: NLP, Computer Vision/vision: CV and Reinforcement Learning RL /Motor-behaviour. Het fundament onder deze toepassingdgebieden wordt gevormd door de vakgebieden Data Science & Machine Learning.
  
 <br> 
 <div align="center">
