@@ -9,7 +9,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 <img src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4" width=10% height=10%>
 <p align="left">
 
-# PROGRAMMA voor AI & ETHIEK
+<p style="border-bottom: none"> <p/>
+
+# PROGRAMMA voor AI & ETHIEK 
 
 ***********
 
@@ -65,7 +67,7 @@ Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorz
 
 Er zijn drie verschillende Data Science thema's waarop studenten kunnen afstuderen:
 
-* Het toepassen van je AI en Machine Learning kennis en ervaring, waaronder data sanitisation, secure data analytics, and bias-reduction technieken. Met deze technieken wordt data op een responsible manier gecombineerd in steeds meer toepassingsdomeinen, zoals Veiligheid, Defensie of Overheid. Voorbeelden hiervan zijn het inzetten van de FACT en FAIR principes, secure of federated learning.
+* Het toepassen van je AI en Machine Learning (ML) kennis en ervaring voor het ontwerpen van FAIR data products die het toepassen van ML-technologie laagdrempeliger maken voor docentonderzoekers.
 
 * Het toepassen van je text mining kennis en ervaring, waaronder Natural Language Processing (NLP), Machine Learning en kennisrepresentatie technieken. Met deze technieken worden kennis en data gecombineerd in steeds meer toepassingsdomeinen, zoals Veiligheid, Defensie, Law Enforcement of Agricultuur. Voorbeelden hiervan zijn het inzetten van Explainable AI (incl. visualisatie) en embeddings.
 
