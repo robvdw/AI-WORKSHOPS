@@ -3,23 +3,34 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 -->
 
 
+***********
+
 <p align="left">
 <img src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4" width=10% height=10%>
 <p align="left">
 
-************
-# Workshop aanbod Programma AI & Ethiek 
+# PROGRAMMA voor AI & ETHIEK
 
-Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek workshops is gebaseerd op het Dreyfus model. 
+***********
+
+## Goal & Aims
+
+Het HR-brede programma voor AI & Ethiek streeft naar disseminatie van kennis over het toepassen van AI & Data Science ––DS––. <br />
+Data Science gerelateerd praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeilijkt door twee complicerende factoren:
+
+* Gebrek aan hands-on kennis over AI-modellen & Data Science Tools.
+
+* Ontbreken aan selfservice toegankelijkheid van data-infrastructuur. 
+
+Via het tot stand brengen van een Data Fabric  kan deze problematiek doorbroken worden. Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Het is agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie, terwijl tegelijkertijd end-to-end mogelijkheden voor datamanagement worden geïntegreerd. Een data fabric (zie onderstaande Figuur) verbindt Data Science knowhow & Computational Thinking skills waarover Data Scientists beschikken met infrastructurele kennis waarover  Data Engineers beschikken.
+
 <br> <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/684692/208652992-55099b81-20fb-4c97-83a9-f04deb65eef3.png" width=80% height=80%>
 <p align="center">
 
 
-
-<br> <br>
 ***********
 
 ## Our [Motto](https://fsymbols.com/text-art/) is:
@@ -36,6 +47,44 @@ Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek
 
 <br> <br>
 ***********
+
+# Afstuderen in het Prometheus Data Science Lab
+
+***********
+
+Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van AI toepassingen & Data Science methodieken om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten voor maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
+
+Data Science  creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images  afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles. 
+
+Het Prometheus Lab werkt samen met opdrachtgevers aan data-product applicaties om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op de inrichting van de data-pipeline. Dat will zeggen, de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing.
+
+<br> <br>
+***********
+
+# Afstudeer Thema's
+
+Er zijn drie verschillende Data Science thema's waarop studenten kunnen afstuderen:
+
+* Het toepassen van je AI en Machine Learning kennis en ervaring, waaronder data sanitisation, secure data analytics, and bias-reduction technieken. Met deze technieken wordt data op een responsible manier gecombineerd in steeds meer toepassingsdomeinen, zoals Veiligheid, Defensie of Overheid. Voorbeelden hiervan zijn het inzetten van de FACT en FAIR principes, secure of federated learning.
+
+* Het toepassen van je text mining kennis en ervaring, waaronder Natural Language Processing (NLP), Machine Learning en kennisrepresentatie technieken. Met deze technieken worden kennis en data gecombineerd in steeds meer toepassingsdomeinen, zoals Veiligheid, Defensie, Law Enforcement of Agricultuur. Voorbeelden hiervan zijn het inzetten van Explainable AI (incl. visualisatie) en embeddings.
+
+* Het toepassen van je kennisrepresentatietechnieken, waaronder semantic web, ontologies, reasoning, en symbolic AI. Met deze technieken worden vraagstukken rondom het beschikbaar stellen van data en het uitwisselen van data met andere organisaties gestructureerd. Toepassingsdomeinen zijn onder andere Overheid en Agricultuur.
+
+<br /><br />
+************
+
+# Workshop aanbod Programma AI & Ethiek 
+
+************
+
+Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek workshops is gebaseerd op het Dreyfus model. 
+<br> <br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=80% height=80%>
+<p align="center">
+
 
 ## Goal & Aims
 
@@ -61,6 +110,8 @@ Expert | innovator | Has an authoritative or deep holistic understanding, deals 
 ***********
  
 ## Workshop AI-toepassing Domeinen/Modaliteiten
+
+
 
  Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language processing/Language: NLP, Computer Vision/vision: CV and Reinforcement Learning RL /Motor-behaviour. Het fundament onder deze toepassingdgebieden wordt gevormd door de vakgebieden Data Science & Machine Learning.
  
