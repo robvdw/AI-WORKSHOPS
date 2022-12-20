@@ -82,7 +82,7 @@ Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek
 <br> <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=60% height=60%>
 <p align="center">
 
 
