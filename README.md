@@ -56,7 +56,7 @@ Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van
 
 Data Science  creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images  afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles. 
 
-Het Prometheus Lab werkt samen met opdrachtgevers aan data-product applicaties om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op de inrichting van de data-pipeline. Dat will zeggen, de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing.
+Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op de inrichting van de data-pipeline. Dat will zeggen, de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing.
 
 <br> <br>
 ***********
