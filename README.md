@@ -24,7 +24,7 @@ Data Science gerelateerd praktijkgericht onderzoek binnen het hoger onderwijs wo
 
 * Ontbreken aan selfservice toegankelijkheid van data-infrastructuur. 
 
-Via het tot stand brengen van een Data Fabric  kan deze problematiek doorbroken worden. Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Het is agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie, terwijl tegelijkertijd end-to-end mogelijkheden voor datamanagement worden geïntegreerd. Een data fabric (zie onderstaande Figuur) verbindt Data Science knowhow & Computational Thinking skills waarover Data Scientists beschikken met infrastructurele kennis waarover  Data Engineers beschikken.
+Via het tot stand brengen van een Data Fabric kan deze problematiek doorbroken worden. Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Het is agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie, terwijl tegelijkertijd end-to-end mogelijkheden voor datamanagement worden geïntegreerd. Een data fabric (zie onderstaande Figuur) verbindt Data Science knowhow & Computational Thinking skills waarover Data Scientists beschikken met infrastructurele kennis waarover  Data Engineers beschikken.
 
 <br> <br>
 
@@ -54,12 +54,12 @@ Via het tot stand brengen van een Data Fabric  kan deze problematiek doorbroken 
 
 ***********
 
-Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van Data Science om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten voor maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
+Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van Data Science om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten akfkomsting van maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
 
 Data Science creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles die gebruikt kunnen worden voor het trainen van state-of-the-art AI-modellen.
 
 Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van 
-de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing aanbod.
+de gehele keten van informatieverwerking ––data pipeline––, van ruwe data tot de menselijke beslissing.
 
 
 
