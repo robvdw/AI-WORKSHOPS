@@ -54,24 +54,50 @@ Via het tot stand brengen van een Data Fabric  kan deze problematiek doorbroken 
 
 ***********
 
-Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van AI toepassingen & Data Science methodieken om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten voor maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
+Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van Data Science om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten voor maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
 
-Data Science  creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images  afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles. 
+Data Science creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles die gebruikt kunnen worden voor het trainen van state-of-the-art AI-modellen.
 
-Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op de inrichting van de data-pipeline. Dat will zeggen, de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing.
+Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van 
+de gehele keten van informatieverwerking, van ruwe data tot de menselijke beslissing aanbod.
+
+
 
 <br> <br>
 ***********
 
-# Afstudeer Thema's
+## Afstudeer Thema's
 
 Er zijn drie verschillende Data Science thema's waarop studenten kunnen afstuderen:
 
-* Het toepassen van je AI en Machine Learning (ML) kennis en ervaring voor het ontwerpen van FAIR data products die het toepassen van ML-technologie laagdrempeliger maken voor docentonderzoekers.
+* Toepassen van kunstmatige intelligentie (AI) en Machine Learning (ML). Doel is het ontwerpen van FAIR data products die het benutten van AI-modellen toegankelijk maken voor niet-technisch onderlegde eindgebruikers. Een voorbeeld hiervan is de [Matlab, Regression Learner applicatie](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
 
-* Het toepassen van je text mining kennis en ervaring, waaronder Natural Language Processing (NLP), Machine Learning en kennisrepresentatie technieken. Met deze technieken worden kennis en data gecombineerd in steeds meer toepassingsdomeinen, zoals Veiligheid, Defensie, Law Enforcement of Agricultuur. Voorbeelden hiervan zijn het inzetten van Explainable AI (incl. visualisatie) en embeddings.
+<!--
+In this course, you will build on the skills learned in Exploratory Data Analysis with MATLAB and Data Processing and Feature Engineering with MATLAB to increase your ability to harness the power of MATLAB to analyze data relevant to the work you do. These skills are valuable for those who have domain knowledge and some exposure to computational tools, but no programming background. To be successful in this course, you should have some background in basic statistics (histograms, averages, standard deviation, curve fitting, interpolation) and have completed courses 1 through 2 of this specialization. By the end of this course, you will use MATLAB to identify the best machine learning model for obtaining answers from your data. You will prepare your data, train a predictive model, evaluate and improve your model, and understand how to get the most out of your models.
+-->
 
-* Het toepassen van je kennisrepresentatietechnieken, waaronder semantic web, ontologies, reasoning, en symbolic AI. Met deze technieken worden vraagstukken rondom het beschikbaar stellen van data en het uitwisselen van data met andere organisaties gestructureerd. Toepassingsdomeinen zijn onder andere Overheid en Agricultuur.
+* Toepassen van natuurlijke taalverwerking (NLP). Doel is het ontwerpen van FAIR data products die grootschalige taalmodellen ––zoals BERT, BLOOM en ChatGPT–– kunnen benutten voor de analyse van vrije-teksten. Voorbeeld hiervan is ["text mining & wrangling" van klinische vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
+
+
+* Toepassen van kennisrepresentatietechnieken, waaronder semantic web, ontologies, reasoning, en symbolic AI. Doel is het benutten van Data Science tools voor het creeren van een Data Fabric. Voorbeeld hiervan is [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
+
+<br> <br>
+*********** 
+## Wij zijn op zoek naar studenten met:
+
+* Sterke affiniteit voor AI-technologie, waaronder Machine Learning en Deep Learning, waarbij je je bewust bent van de randvoorwaarden, kansen en beperkingen.
+
+* Actieve beheersing van een hogere programeertaal  ---bijvoorkeur Python--- inclusief praktische kennis van data Science libraries. 
+
+
+<!--
+Wat wij jou bieden
+Jij wilt werken aan de voorloper van jouw carrière. Een stage geeft de mogelijkheid om een kijkje te nemen bij wellicht jouw toekomstige werkgever. TNO gaat daarin een stap verder. Je neemt niet alleen een kijkje, jij en jouw kennis zijn essentieel voor onze innovaties. We hechten daarom veel waarde aan jouw persoonlijke en professionele ontwikkeling.
+Uiteraard word je goed begeleid tijdens je stage, tegelijkertijd geven we je de ruimte om jezelf te ontplooien. Vanzelfsprekend bieden we je een passende stagevergoeding aan.
+
+TNO als werkgever
+Ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists, die na het werk ook nog (online) sociale activiteiten delen. Dit alles binnen de Unit ICT van TNO. TNO is een onafhankelijke onderzoeksorganisatie die op basis van haar expertise en onderzoek een belangrijke bijdrage levert aan de concurrentiekracht van bedrijven en organisaties, aan de economie en aan de kwaliteit van de samenleving als geheel. Met zo’n 3000 medewerkers werken we voor uiteenlopende opdrachtgevers: overheden, het mkb, grote bedrijven, dienstverleners en maatschappelijke organisaties. Samen werken we aan nieuwe kennis, betere producten, heldere adviezen over beleid en processen. Bij alles wat we doen, draait het om impact. Onze product- en procesinnovaties en onze adviezen hebben pas écht zin als de opdrachtgever daarmee zijn concurrentiepositie kan verbeteren. Als de overheid daarmee haar beleid doelmatiger kan inrichten. En als het mensen en organisaties daadwerkelijk verder helpt.
+-->
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
@@ -118,7 +144,7 @@ Expert | innovator | Has an authoritative or deep holistic understanding, deals 
 
 
 
- Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language processing/Language: NLP, Computer Vision/vision: CV and Reinforcement Learning RL /Motor-behaviour. Het fundament onder deze toepassingdgebieden wordt gevormd door de vakgebieden Data Science & Machine Learning.
+Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language processing/Language: NLP, Computer Vision/vision: CV and Reinforcement Learning RL /Motor-behaviour. Het fundament onder deze toepassingdgebieden wordt gevormd door de vakgebieden Data Science & Machine Learning.
  
 <br> 
 <div align="center">
