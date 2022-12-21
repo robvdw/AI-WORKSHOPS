@@ -39,7 +39,7 @@ Een belangrijk einddoel van het Programma voor AI & Ethiek is dan ook de totstan
 
 <br> <br>
 <p align="center">
-<img src="Do_NO_HARM.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/684692/208807146-d7085ca6-a578-49fb-9e5c-bdb0a621afd9.JPG" width=80% height=80%>
 
 <br> <br>
 ***********
