@@ -5,32 +5,32 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ***********
 
-<p align="left">
-<img src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4" width=10% height=10%>
-<p align="left">
+<p align="right">
+<img src="https://avatars.githubusercontent.com/u/115706761?s=400&u=7c6cae892816e172b0b7eef99f2d32adb948c6ad&v=4" width=20% height=20%>
 
-<p style="border-bottom: none"> <p/>
-
-# PROGRAMMA voor AI & ETHIEK 
+# PROMETHEUS DATA SCIENCE LAB
 
 ***********
 
-## Goal & Aims
+# Context & Aim
 
-Het HR-brede programma voor AI & Ethiek streeft naar disseminatie van kennis over het toepassen van AI & Data Science ––DS––. <br />
-Data Science gerelateerd praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeilijkt door twee complicerende factoren:
+Datagedreven praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeilijkt door twee complicerende factoren:
 
 * Gebrek aan hands-on kennis over AI-modellen & Data Science Tools.
 
 * Ontbreken aan selfservice toegankelijkheid van data-infrastructuur. 
 
-Via het tot stand brengen van een Data Fabric kan deze problematiek doorbroken worden. Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Het is agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie, terwijl tegelijkertijd end-to-end mogelijkheden voor datamanagement worden geïntegreerd. Een data fabric (zie onderstaande Figuur) verbindt Data Science knowhow & Computational Thinking skills waarover Data Scientists beschikken met infrastructurele kennis waarover  Data Engineers beschikken.
+Via het tot stand brengen van een data fabric kan deze problematiek doorbroken worden.
+
+Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. AI-methodieken, zoals Machine Learning (ML), kunnen dan worden ingezet om voorspellingen of beslissingen te maken op basis van die analyse, wat nuttig kan zijn in een breed scala aan toepassingsdomeinen, waaronder marketing, financiën, gezondheidszorg en vele andere. Door Computational Thinking skills ––waarover Data Scientists beschikken–– met infrastructurele kennis ––waarover  Data Engineers beschikken–– met elkaar te verbinden is een data fabric agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie. 
+
+Een belangrijk einddoel van het Programma voor AI & Ethiek is dan ook de totstandbrenging van een data fabric. Het Prometheus Data Science Lab is opgericht als fysieke verschijnsvorm hiervan en is te vinden op de Wijnhaven 103, Ruimte WD 00.018.
 
 <br> <br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/684692/208652992-55099b81-20fb-4c97-83a9-f04deb65eef3.png" width=80% height=80%>
-<p align="center">
+
 
 
 ***********
@@ -38,14 +38,8 @@ Via het tot stand brengen van een Data Fabric kan deze problematiek doorbroken w
 ## Our [Motto](https://fsymbols.com/text-art/) is:
 
 <br> <br>
-<div align="center">
-
-███████████████████████████████████████████████████████
-█▄─▄▄▀█─▄▄─███▄─▀█▄─▄█─▄▄─███─█─██▀▄─██▄─▄▄▀█▄─▀█▀─▄█░█
-██─██─█─██─████─█▄▀─██─██─███─▄─██─▀─███─▄─▄██─█▄█─██▄█
-▀▄▄▄▄▀▀▄▄▄▄▀▀▀▄▄▄▀▀▄▄▀▄▄▄▄▀▀▀▄▀▄▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▀▄▄▄▀▄▀
-
-</div>
+<p align="center">
+<img src="Do_NO_HARM.jpg" width=80% height=80%>
 
 <br> <br>
 ***********
@@ -54,14 +48,13 @@ Via het tot stand brengen van een Data Fabric kan deze problematiek doorbroken w
 
 ***********
 
-Het Prometheus data-lab richt zich op het betrouwbaar & verantwoord inzetten van Data Science om te komen tot bildung van Computational Thinking, enerzijds, en het laagdrempelig delen van inzichten akfkomsting van maatschappelijke vraagstukken die voortvloeien uit praktijkgericht onderzoek, anderzijds. 
+Het Prometheus Data Science lab richt zich op het betrouwbaar & verantwoord inzetten van data producten.
 
-Data Science creëert betekenisvolle inzichten uit researchdata. Voorbeelden hiervan zijn teksten & images afkomstig van het world-wide-web, zoals sociale media en discussiefora, maar kunnen ook bestaan uit IoT sensor-data en/of logfiles die gebruikt kunnen worden voor het trainen van state-of-the-art AI-modellen.
+Data Science is een interdisciplinair vakgebied,  gericht op het creëren van betekenisvolle inzichten uit ongestructureerde, heterogene datasets, zoals: teksten, images of videofilmpjes afkomstig van het world-wide-web ––denk aan sociale media en discussiefora–– maar kan ook bestaan uit IoT sensor-data en/of logfiles.
 
-Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van 
-de gehele keten van informatieverwerking ––data pipeline––, van ruwe data tot de menselijke beslissing.
+Data producten zijn software-applicaties ontwikkeld door data-wetenschappers met behulp van AI-technologie. Ze zijn ontworpen met als doel om inzichten, aanbevelingen of voorspellingen aan eindgebruikers te leveren op basis van ongestructureerde, heterogene datasets Data producten bevatten interactieve elementen, zoals dashboards of visualisaties, zodat niet-technisch onderlegde eindgebruikers data in real-time kunnen verkennen en te analyseren.
 
-
+Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van de gehele keten van informatieverwerking ––data pipeline––, van ruwe data tot de menselijke beslissing.
 
 <br> <br>
 ***********
