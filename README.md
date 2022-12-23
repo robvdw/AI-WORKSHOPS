@@ -14,7 +14,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 # Context & Aim
 
-Datagedreven praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeilijkt door twee complicerende factoren:
+Data Science  ––DS––  is een interdisciplinair vakgebied dat zich richt op het exploratief extraheren van voor mensen betekenisvolle informatie uit datasets. De nadruk ligt op inductief-redeneren om zo een dieper inzicht te krijgen op basis waarvan data-driven besluitvorming kan plaatsvinden. Kunstmatige intelligentie ––AI–– is de snelstgroeiende subdiscipline van Data Science dat een steeds dominantere rol speelt bij data-driven innovaties.
+
+AI (kunstmatige intelligentie) is een toegepaste wetenschap gericht op het automatiseren, simuleren en/of creëren van systemen die taken zelfstandig kunnen uitvoeren waarvoor menselijke intelligentie nodig is. Denk voorbeeld aan zoiets als het begrijpen van natuurlijke taal. Het vormt interdisciplinair vakgebied dat veel subdisciplines bestrijkt, waaronder [computer visie (CV)](https://datascience.eu/nl/computer-vision/computer-visie/), [natuurlijke taalverwerking (NLP)](https://datascience.eu/nl/natuurlijke-taalverwerking/natuurlijke-taalverwerking-nlp/) en [Robotica / Reinforcement Learning (RL)](https://centillien.com/nl/reinforcement-learning/). 
+
+Exemplarisch door data-driven innovatie door AI is [ChatGPT](https://chat.openai.com/): een state-of-the-art, grootschalig taalmodel (LLM) dat gebruik maakt van AI-technologie gebaseerd op natuurlijke taalverwerking (NLP).  Een testversie is op 30 november 2022 publiekelijk beschikbaar gesteld via de website van [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”.
+
+Data-driven praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeilijkt door twee complicerende factoren:
 
 * Gebrek aan hands-on kennis over AI-modellen & Data Science Tools.
 
@@ -22,14 +28,19 @@ Datagedreven praktijkgericht onderzoek binnen het hoger onderwijs wordt bemoeili
 
 Via het tot stand brengen van een data fabric kan deze problematiek doorbroken worden.
 
-Een data fabric vereenvoudigt de toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. AI-methodieken, zoals Machine Learning (ML), kunnen dan worden ingezet om voorspellingen of beslissingen te maken op basis van die analyse, wat nuttig kan zijn in een breed scala aan toepassingsdomeinen, waaronder marketing, financiën, gezondheidszorg en vele andere. Door Computational Thinking skills ––waarover Data Scientists beschikken–– met infrastructurele kennis ––waarover  Data Engineers beschikken–– met elkaar te verbinden is een data fabric agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie. 
-
-Een belangrijk einddoel van het Programma voor AI & Ethiek is dan ook de totstandbrenging van een data fabric. Het Prometheus Data Science Lab is opgericht als fysieke verschijnsvorm hiervan en is te vinden op de Wijnhaven 103, Ruimte WD 00.018.
+Een data fabric biedt laagdrempelige toegang tot Data Science tools om zo selfservice analyse mogelijk te maken van researchdata. Door Computational Thinking skills ––waarover Data Scientists beschikken–– met infrastructurele kennis ––waarover  Data Engineers beschikken–– met elkaar te verbinden is een data fabric agnostisch ten aanzien van data-omgevingen, -processen, -nut en -locatie. 
 
 <br> <br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/684692/208652992-55099b81-20fb-4c97-83a9-f04deb65eef3.png" width=80% height=80%>
+
+
+
+Dus om een data fabric te creëren, werken  data scientists samen met data engineers; hierdoor wordt integratie mogelijk van bestaande IT-infrastructuur en -systemen, zoals bedrijfsapplicaties, analytische tools en security systemen.
+Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van researchdata, voor het hele scala aan toepassingsdomeinen dat de hogeschool Rotterdam bestrijkt zoals Coding, Biotech, Education, Fintech, Gaming, Healthcare, Logistics, Predictive Maintenance, Robotics.
+
+Een belangrijk einddoel van het Programma voor AI & Ethiek is dan ook de totstandbrenging van een data fabric. Het Prometheus Data Science Lab is opgericht als fysieke verschijnsvorm hiervan en is te vinden op de Wijnhaven 103, Ruimte WD 00.018.
 
 
 
@@ -52,7 +63,7 @@ Het Prometheus Data Science lab richt zich op het betrouwbaar & verantwoord inze
 
 Data Science is een interdisciplinair vakgebied,  gericht op het creëren van betekenisvolle inzichten uit ongestructureerde, heterogene datasets, zoals: teksten, images of videofilmpjes afkomstig van het world-wide-web ––denk aan sociale media en discussiefora–– maar kan ook bestaan uit IoT sensor-data en/of logfiles.
 
-Data producten zijn software-applicaties ontwikkeld door data-wetenschappers met behulp van AI-technologie. Ze zijn ontworpen met als doel om inzichten, aanbevelingen of voorspellingen aan eindgebruikers te leveren op basis van ongestructureerde, heterogene datasets Data producten bevatten interactieve elementen, zoals dashboards of visualisaties, zodat niet-technisch onderlegde eindgebruikers data in real-time kunnen verkennen en te analyseren.
+Data producten zijn software-applicaties ontwikkeld door data-wetenschappers met behulp van AI-technologie. Ze zijn ontworpen met als doel om inzichten, aanbevelingen of voorspellingen aan eindgebruikers te leveren op basis van ongestructureerde, heterogene datasets. Data producten bevatten interactieve elementen, zoals dashboards of visualisaties, zodat niet-technisch onderlegde eindgebruikers data in real-time kunnen verkennen.
 
 Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorzoekbaarheid van researchdata te vergroten, causale relaties te kunnen opsporen en/of patronen te kunnen blootleggen. Daarbij ligt de focus op het laagdrempelig & verantwoord inzetten van AI-technologie. Centraal uitgangspunt is het doorlichten van de gehele keten van informatieverwerking ––data pipeline––, van ruwe data tot de menselijke beslissing.
 
@@ -63,7 +74,7 @@ Het Prometheus Lab werkt samen met opdrachtgevers aan data-producten om de doorz
 
 Er zijn drie verschillende Data Science thema's waarop studenten kunnen afstuderen:
 
-* Toepassen van kunstmatige intelligentie (AI) en Machine Learning (ML). Doel is het ontwerpen van FAIR data products die het benutten van AI-modellen toegankelijk maken voor niet-technisch onderlegde eindgebruikers. Een voorbeeld hiervan is de [Matlab, Regression Learner applicatie](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
+* Toepassen van Machine Learning (ML). Doel is het ontwerpen van FAIR data products die het benutten van AI-modellen toegankelijk maken voor niet-technisch onderlegde eindgebruikers. Een voorbeeld hiervan is de [Matlab, Regression Learner applicatie](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
 
 <!--
 In this course, you will build on the skills learned in Exploratory Data Analysis with MATLAB and Data Processing and Feature Engineering with MATLAB to increase your ability to harness the power of MATLAB to analyze data relevant to the work you do. These skills are valuable for those who have domain knowledge and some exposure to computational tools, but no programming background. To be successful in this course, you should have some background in basic statistics (histograms, averages, standard deviation, curve fitting, interpolation) and have completed courses 1 through 2 of this specialization. By the end of this course, you will use MATLAB to identify the best machine learning model for obtaining answers from your data. You will prepare your data, train a predictive model, evaluate and improve your model, and understand how to get the most out of your models.
