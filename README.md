@@ -164,7 +164,7 @@ Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language pro
 
 Uitgangpunt is om tot een workshop eco-systeem te komen op basis waarvan de beoogde doelgroep zelf kan bepalen welke workshop ze willen volgen. 
  
- Elke workshop zal gekoppeld worden aan een  Github Repository op  met als URL: https://github.com/HR-HUMANIZING-CYBER. Uiteindelijk zal een deel van de workshops worden omgezet in  EduBadges.
+ Elke workshop zal gekoppeld worden aan een  Github Repository op  met als URL: https://github.com/HR-HUMANIZING-CYBER. Uiteindelijk zal een deel van de workshops worden omgezet in  EduBadges. + Kosten aangeven!
 <br> <br>
 
 
@@ -181,7 +181,7 @@ novice | duider | onvolledig inzicht, <br /> supervisie nodig | Machine learning
 novice | duider | onvolledig inzicht, <br /> supervisie nodig | Data Science| Je leert de concepten die je moet weten om te kunnen begrĳpen wat state-of-the-art Data Science is en hoe je broncode kunt schrijven met Notebooks. Voor deze workshop is geen technische voorkennis vereist | [Github Rep](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks) ☑ | Anaconda <br /> Jupyter Notebook <br /> Python | Alfons <Br />  <br/> Rob
 novice | duider | onvolledig inzicht, <br /> supervisie nodig | Machine Learning <br /> NLP <br/> CV| Azure docententraining (AI-900)  Voor deze workshop is geen technische voorkennis vereist | [Webpage](https://learn.microsoft.com/en-us/certifications/exams/ai-900) ☑ | Anaconda <br /> Jupyter Notebook <br /> Python | Alfons <br /><br /> Rob
 Proficient | toepasser | inzicht in context, <br /> autonoom | Machine Learning | Verschillende regressie-neurale netwerkmodellen worden vergelijken met behulp van de Matlab Regression Learner app. Het doel is om getrainde modellen te exporteren op aangepaste datasets om voorspellingen te doen voor nieuwe gegevens. | [GitHub Rep](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER) ☑ | Matlab | Rob
-Proficient | toepasser | inzicht in context, <br /> autonoom | Machine Learning <br /> <br />  NLP | Verschillende NLP functies worden vergelijken met behulp van Python Jupyter Notebooks. Het doel is om chatbots te trainen op basis van een zelf opgestelde dialoog-structuur. | [GitHub Rep](https://github.com/robvdw/Digital-Humans) ☑ | spaCy, NLTK, Pandas, Pytorh | Rob
+Proficient | toepasser | inzicht in context, <br /> autonoom | Machine Learning <br /> <br />  NLP | Verschillende NLP functies worden vergelijken met behulp van Python Jupyter Notebooks. Het doel is om chatbots te trainen op basis van een zelf opgestelde dialoog-structuur. | [GitHub Rep](https://github.com/robvdw/Digital-Humans) ☑ | spaCy, NLTK, Pandas, Python | Rob
 
 
 
