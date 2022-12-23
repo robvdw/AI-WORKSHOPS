@@ -14,7 +14,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 # Context & Aim
 
-Data Science  ––DS––  is een interdisciplinair vakgebied dat zich richt op het exploratief extraheren van voor mensen betekenisvolle informatie uit datasets. De nadruk ligt op inductief-redeneren waardoor data-driven besluitvorming kan plaatsvinden. Kunstmatige intelligentie ––AI–– is de snelstgroeiende subdiscipline van Data Science dat een steeds dominantere rol speelt bij data-driven innovaties.
+Data Science  ––DS––  is een interdisciplinair vakgebied dat zich richt op het exploratief extraheren van betekenisvolle informatie uit datasets. De nadruk ligt op inductief-redeneren waardoor data-driven besluitvorming kan plaatsvinden. Kunstmatige intelligentie ––AI–– is de snelstgroeiende subdiscipline van Data Science dat een steeds dominantere rol speelt bij data-driven innovaties.
 
 AI (kunstmatige intelligentie) is een toegepaste wetenschap gericht op het automatiseren, simuleren en/of creëren van systemen die taken zelfstandig kunnen uitvoeren waarvoor menselijke intelligentie nodig is. Denk voorbeeld aan zoiets als het begrijpen van natuurlijke taal. Het vormt interdisciplinair vakgebied dat veel subdisciplines bestrijkt, waaronder [computer visie (CV)](https://datascience.eu/nl/computer-vision/computer-visie/), [natuurlijke taalverwerking (NLP)](https://datascience.eu/nl/natuurlijke-taalverwerking/natuurlijke-taalverwerking-nlp/) en [Robotica / Reinforcement Learning (RL)](https://centillien.com/nl/reinforcement-learning/). 
 
