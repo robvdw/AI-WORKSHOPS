@@ -48,7 +48,14 @@ Proficient | toepasser | Has a deep understanding, sees actions holistically, ca
 Expert | innovator | Has an authoritative or deep holistic understanding, deals with routine matters intuitively, able to go beyond existing interpretations, achieves excellence with ease.
 
 </div>
+
 <br> <br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/684692/211459924-133f5a52-f59a-4faf-a381-b92a6d68d6a2.jpg" width=100% height=100%>
+<p align="center">
+
+
 
 <br>
  
