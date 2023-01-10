@@ -81,7 +81,13 @@ Er zijn drie dominante AI toepassingsgebieden/modaliteiten: Natural Language pro
 
 Uitgangpunt is om tot een workshop eco-systeem te komen op basis waarvan de beoogde doelgroep zelf kan bepalen welke workshop ze willen volgen. 
  
- Elke workshop zal gekoppeld worden aan een  Github Repository op  met als URL: https://github.com/HR-HUMANIZING-CYBER. Uiteindelijk zal een deel van de workshops worden omgezet in  EduBadges. + Kosten aangeven!
+<p align="center">
+<img src="https://user-images.githubusercontent.com/684692/211461189-e471a810-ee20-4280-a4ae-c10eab1013a5.jpg" width=100% height=100%>
+<p align="center">
+
+
+
+Elke workshop zal gekoppeld worden aan een  Github Repository op  met als URL: https://github.com/HR-DATA-FABRIC. Uiteindelijk zal een deel van de workshops worden omgezet in  EduBadges. + Kosten aangeven!
 <br> <br>
 
 
