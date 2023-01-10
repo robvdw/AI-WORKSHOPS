@@ -22,8 +22,13 @@ Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek
 <br> <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/211458846-6dad7b21-5e74-4da6-8017-a8c1844b3c8f.jpg" width=100% height=100%>
 <p align="center">
+
+
+
+
+
 
 
 ## Goal & Aims
