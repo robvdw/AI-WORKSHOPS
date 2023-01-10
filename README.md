@@ -22,8 +22,13 @@ Het didactische fundament voor het opbouwen van een breed aanbod van AI & Ethiek
 <br> <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/208001090-ae7b38fb-b653-4400-9f60-57b12922b6bc.jpg" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/211458846-6dad7b21-5e74-4da6-8017-a8c1844b3c8f.jpg" width=100% height=100%>
 <p align="center">
+
+
+
+
+
 
 
 ## Goal & Aims
@@ -43,7 +48,14 @@ Proficient | toepasser | Has a deep understanding, sees actions holistically, ca
 Expert | innovator | Has an authoritative or deep holistic understanding, deals with routine matters intuitively, able to go beyond existing interpretations, achieves excellence with ease.
 
 </div>
+
 <br> <br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/684692/211459924-133f5a52-f59a-4faf-a381-b92a6d68d6a2.jpg" width=100% height=100%>
+<p align="center">
+
+
 
 <br>
  
